@@ -1,0 +1,23 @@
+{
+	"name": "side-channel-list",
+	"version": "0.0.0",
+	"description": "Store information about any JS value in a side channel, using a linked list.",
+	"main": "index.js",
+	"exports": {
+		".": "./index.js",
+		"./package.json": "./package.json"
+	}",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/side-channel-list.git"
+	},
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/side-channel-list/issues"
+	},
+	"homepage": "https://github.com/ljharb/side-channel-list#readme"
+}
